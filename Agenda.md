@@ -6,8 +6,8 @@ Themen
 
 Montag:
 
-- [ ] Solid 
-- [ ] Delegates / Actions / Func / Events / EventHandler
+- [x] Solid 
+- [x] Delegates / Actions / Func / Events / EventHandler
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 Dienstag:

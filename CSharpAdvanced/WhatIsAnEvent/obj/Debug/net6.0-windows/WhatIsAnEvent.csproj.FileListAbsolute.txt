@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\bin\Debug\net6.0-windows\WhatIsAnEvent.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\bin\Debug\net6.0-windows\WhatIsAnEvent.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\bin\Debug\net6.0-windows\WhatIsAnEvent.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\bin\Debug\net6.0-windows\WhatIsAnEvent.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\bin\Debug\net6.0-windows\ref\WhatIsAnEvent.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\bin\Debug\net6.0-windows\WhatIsAnEvent.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.Form1.resources
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\ref\WhatIsAnEvent.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\WhatIsAnEvent\obj\Debug\net6.0-windows\WhatIsAnEvent.genruntimeconfig.cache
