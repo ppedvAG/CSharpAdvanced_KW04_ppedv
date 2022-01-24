@@ -35,4 +35,57 @@ namespace Übung_Solid2
     }
     #endregion
 
+
+    #region Better Code
+    public interface IEmail
+    {
+        void SendEmail();
+    }
+
+    public class Email : IEmail
+    {
+        public void SendEmail()
+        {
+            Console.WriteLine("Sende eine Email");
+        }
+    }
+
+    public interface INotification
+    {
+        void PromotionalNotification();
+        void PromotionalNotification(IEmail email);
+    }
+
+
+    public class Notification : INotification
+    {
+        private IEmail email;
+
+        public Notification()
+        {
+            email = new Email();
+        }
+
+        public  Notification(IEmail email) //Konstruktor Injection
+        {
+            this.email = email;
+        }
+
+
+
+        public void PromotionalNotification()
+        {
+            email.SendEmail();
+        }
+
+        public void PromotionalNotification(IEmail myEmail) //Methoden Injection 
+        {
+            myEmail.SendEmail();
+        }
+    }
+
+
+
+
+    #endregion
 }
