@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\bin\Debug\net6.0\SOLID_004_DependencyInversion.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\bin\Debug\net6.0\SOLID_004_DependencyInversion.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\bin\Debug\net6.0\SOLID_004_DependencyInversion.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\bin\Debug\net6.0\SOLID_004_DependencyInversion.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\bin\Debug\net6.0\ref\SOLID_004_DependencyInversion.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\bin\Debug\net6.0\SOLID_004_DependencyInversion.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\ref\SOLID_004_DependencyInversion.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.genruntimeconfig.cache

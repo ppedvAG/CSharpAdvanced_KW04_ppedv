@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\bin\Debug\net6.0\DelegatesActionsFuncSamples.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\bin\Debug\net6.0\DelegatesActionsFuncSamples.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\bin\Debug\net6.0\DelegatesActionsFuncSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\bin\Debug\net6.0\DelegatesActionsFuncSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\bin\Debug\net6.0\ref\DelegatesActionsFuncSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\bin\Debug\net6.0\DelegatesActionsFuncSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\ref\DelegatesActionsFuncSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.genruntimeconfig.cache
