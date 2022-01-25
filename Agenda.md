@@ -8,7 +8,8 @@ Montag:
 
 - [x] Solid 
 - [x] Delegates / Actions / Func / Events / EventHandler
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Interfaces vs abstract in Verbindung mit dem Builder Design Pattern 
 
 Dienstag:
 - [ ] Threading
@@ -18,6 +19,7 @@ Dienstag:
 
 Mittwoch:
 - [ ] Reflections 
+ - [ ] Plugin Pattern
 - [ ] Serialisierung
 - [ ] Linq / Lambda 
 - [ ] Erweiterungsmethoden  
@@ -28,6 +30,17 @@ Mittwoch:
 Weitere Themen bei freier Zeit
 - [ ] OOP -> Crashkurs
 - [ ] StructVsClasses 
+
+
+- Datenbank Anbindung
+- ADO.NET -> SqlConnection / SqlCommand / SqlDataAdapter / SqlDataReader
+	Altes ADO.NET -> System.Data.SqlClient
+	Neues ADO.NET -> Microsoft.Data.SqlClient
+- Parameteresierte Abragen 
+
+
+
+
 
 Datei-Verarbeitung und Verzeichnisse
 - [ ] Namespaces

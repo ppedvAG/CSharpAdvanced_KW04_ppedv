@@ -9,7 +9,7 @@ namespace EventAndEventHandlerSample
     public class ProcessBusinessLogic2Component
     {
         //Beispiel 1
-        public event EventHandler ProcessCompleted;
+        public event EventHandler ProcessCompleted; //Hier wird die Adresse der Callback-Methode hinterlegt
 
 
 
@@ -31,16 +31,19 @@ namespace EventAndEventHandlerSample
             for (int i = 0; i < 10; i++)
                 Console.WriteLine(i);
 
+            //Beispiel 1 - Ohne Argumente
+            OnProcessCompleted(EventArgs.Empty);
+
+            //Beispiel 2 - Wir verwenden ein abgeletietes Event Argument
             MyEventArg myEventArg = new MyEventArg();
             myEventArg.Uhrzeit = DateTime.Now;
-
-            //Wir verwenden ein abgeletietes Event Argument
             OnProcessCompletedNew(myEventArg);
         }
 
+        //Hier rufen wir die Callback Methode auf 
         protected virtual void OnProcessCompleted(EventArgs e)
         {
-            ProcessCompleted?.Invoke(this, e);
+            ProcessCompleted?.Invoke(this, e); //Invoke -> Rufen Speicheradresse der Callback-Methode
         }
 
       

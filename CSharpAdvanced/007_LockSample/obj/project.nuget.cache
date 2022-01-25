@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbhYj39uXX/yZcJP85ZyhYMQBEBKHbdxdpNBHNJXfgGia2MGL3YWaVRsM9jvYeOeu519haUXR3+a7g8NcfWPjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW04_ppedv\\CSharpAdvanced\\007_LockSample\\007_LockSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

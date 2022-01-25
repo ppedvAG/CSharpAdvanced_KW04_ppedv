@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\bin\Debug\net5.0\006_ThreadPooolSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\bin\Debug\net5.0\006_ThreadPooolSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\bin\Debug\net5.0\006_ThreadPooolSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\bin\Debug\net5.0\006_ThreadPooolSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\bin\Debug\net5.0\006_ThreadPooolSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\bin\Debug\net5.0\ref\006_ThreadPooolSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\bin\Debug\net5.0\006_ThreadPooolSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\ref\006_ThreadPooolSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\006_ThreadPooolSample\obj\Debug\net5.0\006_ThreadPooolSample.genruntimeconfig.cache

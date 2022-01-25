@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46ed31e7-e871-4c5a-8a44-9b5aee92ee21": {
+      "ProjectGuid": "46ed31e7-e871-4c5a-8a44-9b5aee92ee21",
+      "DisplayName": "SOLID_001_SingleResponsibilityPrincip",
+      "ColorIndex": 0
+    },
+    "bf5697fd-c202-4816-8151-04da2cd35d30": {
+      "ProjectGuid": "bf5697fd-c202-4816-8151-04da2cd35d30",
+      "DisplayName": "SOLID_002_OpenClosePrincipe",
+      "ColorIndex": 1
+    },
+    "238dcfcd-2481-4451-b81d-d56af1732d79": {
+      "ProjectGuid": "238dcfcd-2481-4451-b81d-d56af1732d79",
+      "DisplayName": "SOLID_003_LizkovischesPrincipe",
+      "ColorIndex": 2
+    },
+    "e853fee6-5578-4dab-a4a6-fa01522b394e": {
+      "ProjectGuid": "e853fee6-5578-4dab-a4a6-fa01522b394e",
+      "DisplayName": "SOLID_004_DependencyInversion",
+      "ColorIndex": 3
+    },
+    "c7705d56-cf02-4f4e-a9a3-b9db5feb2595": {
+      "ProjectGuid": "c7705d56-cf02-4f4e-a9a3-b9db5feb2595",
+      "DisplayName": "SOLID_005_InterfaceSegregation",
+      "ColorIndex": 4
+    },
+    "7edb7f82-8a61-4a57-8f75-4510589b4dcd": {
+      "ProjectGuid": "7edb7f82-8a61-4a57-8f75-4510589b4dcd",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 5
+    },
+    "7d9814f2-1535-4980-8297-a8d0ba8d7f56": {
+      "ProjectGuid": "7d9814f2-1535-4980-8297-a8d0ba8d7f56",
+      "DisplayName": "DelegatesActionsFuncSamples",
+      "ColorIndex": 6
+    },
+    "4a03ce7b-b404-447c-8bb7-114a6cbd74ea": {
+      "ProjectGuid": "4a03ce7b-b404-447c-8bb7-114a6cbd74ea",
+      "DisplayName": "DelegateAndActionAsCallback",
+      "ColorIndex": 7
+    },
+    "3fd9a3ca-faa9-4ea2-9a4c-d9f69829eef9": {
+      "ProjectGuid": "3fd9a3ca-faa9-4ea2-9a4c-d9f69829eef9",
+      "DisplayName": "EventAndEventHandlerSample",
+      "ColorIndex": 8
+    },
+    "6fb589a7-cc7d-4d50-b700-2e78e3456b2a": {
+      "ProjectGuid": "6fb589a7-cc7d-4d50-b700-2e78e3456b2a",
+      "DisplayName": "WhatIsAnEvent",
+      "ColorIndex": 9
+    },
+    "6eeb06ed-cec7-4351-bdbd-ea5e65745ce4": {
+      "ProjectGuid": "6eeb06ed-cec7-4351-bdbd-ea5e65745ce4",
+      "DisplayName": "WPFAndEvents",
+      "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "75e0ff97-979c-4afa-bdd7-75c6121ff339": {
+      "ProjectGuid": "75e0ff97-979c-4afa-bdd7-75c6121ff339",
+      "DisplayName": "StringBuilderBenchmarkDemo",
+      "ColorIndex": 11
+    },
+    "580cb666-c146-49cc-96a5-295681450c9e": {
+      "ProjectGuid": "580cb666-c146-49cc-96a5-295681450c9e",
+      "DisplayName": "Übung_Solid1",
+      "ColorIndex": 12
+    },
+    "3704b5ed-f93e-4e1c-826c-b31e0d5b216b": {
+      "ProjectGuid": "3704b5ed-f93e-4e1c-826c-b31e0d5b216b",
+      "DisplayName": "Übung_Solid2",
+      "ColorIndex": 13
+    },
+    "d3197d88-792a-4528-a2df-f900d0643a0c": {
+      "ProjectGuid": "d3197d88-792a-4528-a2df-f900d0643a0c",
+      "DisplayName": "BuilderPattern",
+      "ColorIndex": 14
+    },
+    "319462d1-f615-45ad-9770-36ebae190458": {
+      "ProjectGuid": "319462d1-f615-45ad-9770-36ebae190458",
+      "DisplayName": "BuilderPattern_with_abstract_Class",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

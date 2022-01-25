@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DWthLBAQ99Hn4SdkpsZ/E71laAJK2kH5vYaSBXuqHCtcmuSp68HCu1ZleGvHCYl3ntp1evoeebJ6C0CT9hXtA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW04_ppedv\\CSharpAdvanced\\010_Mutex_ProgramInstance\\010_Mutex_ProgramInstance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

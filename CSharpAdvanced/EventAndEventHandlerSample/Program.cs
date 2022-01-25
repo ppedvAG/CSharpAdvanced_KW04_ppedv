@@ -46,9 +46,10 @@ public class MyApp2
     public void InitEvents()
     {
         //Beispiel ohne Parameter nach aussen ->EventArgs.Empty
-        processBusinessLogic2.ProcessCompleted += ProcessBusinessLogic2_ProcessCompleted;
-        processBusinessLogic2.PercentChanged += ProcessBusinessLogic2_PercentChanged;
+        processBusinessLogic2.ProcessCompleted += ProcessBusinessLogic2_ProcessCompleted; //Hier wird der Funktionszeiger von 'ProcessBusinessLogic2_ProcessCompleted' auf ProcessCompleted übertragen 
+        //processBusinessLogic2.PercentChanged += ProcessBusinessLogic2_PercentChanged;
 
+        //processBusinessLogic2.ProcessCompleted
 
         //Parameter werden via EvetnsArgs verwendet 
         processBusinessLogic2.ProcessCompletedWithArgument += ProcessBusinessLogic2_ProcessCompletedWithArgument;
