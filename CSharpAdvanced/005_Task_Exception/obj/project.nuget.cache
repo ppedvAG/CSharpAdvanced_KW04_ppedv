@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9uYpWWYush68bTpSCGU0k6gEtYk08AHZd3oMdXP6poPFb7DvjhKcdxWNGleZoLdOORr+gSHiC5lJ7NplW+Klaw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW04_ppedv\\CSharpAdvanced\\005_Task_Exception\\005_Task_Exception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

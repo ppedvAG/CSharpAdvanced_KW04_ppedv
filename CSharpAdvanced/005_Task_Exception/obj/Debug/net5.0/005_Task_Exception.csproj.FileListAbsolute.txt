@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\bin\Debug\net5.0\005_Task_Exception.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\bin\Debug\net5.0\005_Task_Exception.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\bin\Debug\net5.0\005_Task_Exception.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\bin\Debug\net5.0\005_Task_Exception.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\bin\Debug\net5.0\005_Task_Exception.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\bin\Debug\net5.0\ref\005_Task_Exception.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\bin\Debug\net5.0\005_Task_Exception.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\ref\005_Task_Exception.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.genruntimeconfig.cache

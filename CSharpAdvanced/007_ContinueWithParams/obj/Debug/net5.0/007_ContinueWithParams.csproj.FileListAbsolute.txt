@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\ref\007_ContinueWithParams.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\ref\007_ContinueWithParams.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.genruntimeconfig.cache
