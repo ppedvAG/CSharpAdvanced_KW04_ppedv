@@ -12,7 +12,7 @@ classWithMethoden.AddNumber(12);
 ChangeNumber changeNumberDelegate = new ChangeNumber(classWithMethoden.AddNumber);
 int result = changeNumberDelegate(12);
 ChangeNumber changeSubNumberDelegate = new ChangeNumber(classWithMethoden.SubNumber);
-int resultB = changeNumberDelegate += classWithMethoden.SubNumber;
+//int resultB = changeNumberDelegate += classWithMethoden.SubNumber;
 
 int result2 = changeNumberDelegate(12);
 

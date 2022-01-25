@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\001_ThreadStarten\obj
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\001_ThreadStarten\obj\Debug\net5.0\ref\001_ThreadStarten.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\001_ThreadStarten\obj\Debug\net5.0\001_ThreadStarten.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\001_ThreadStarten\obj\Debug\net5.0\001_ThreadStarten.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\001_ThreadStarten\obj\Debug\net5.0\001_ThreadStarten.csproj.AssemblyReference.cache

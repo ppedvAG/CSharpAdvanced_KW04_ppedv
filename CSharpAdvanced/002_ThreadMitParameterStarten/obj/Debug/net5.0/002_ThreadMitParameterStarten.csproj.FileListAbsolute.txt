@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParamete
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParameterStarten\bin\Debug\net5.0\002_ThreadMitParameterStarten.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParameterStarten\bin\Debug\net5.0\ref\002_ThreadMitParameterStarten.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParameterStarten\bin\Debug\net5.0\002_ThreadMitParameterStarten.pdb
-C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParameterStarten\obj\Debug\net5.0\002_ThreadMitParameterStarten.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParameterStarten\obj\Debug\net5.0\002_ThreadMitParameterStarten.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParameterStarten\obj\Debug\net5.0\002_ThreadMitParameterStarten.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002_ThreadMitParameterStarten\obj\Debug\net5.0\002_ThreadMitParameterStarten.AssemblyInfo.cs

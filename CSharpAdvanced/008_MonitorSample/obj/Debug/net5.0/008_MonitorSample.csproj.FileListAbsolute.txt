@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\bin\Debug\net5.0\008_MonitorSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\bin\Debug\net5.0\008_MonitorSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\bin\Debug\net5.0\008_MonitorSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\bin\Debug\net5.0\008_MonitorSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\bin\Debug\net5.0\008_MonitorSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\bin\Debug\net5.0\ref\008_MonitorSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\bin\Debug\net5.0\008_MonitorSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\ref\008_MonitorSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\008_MonitorSample\obj\Debug\net5.0\008_MonitorSample.genruntimeconfig.cache

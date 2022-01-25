@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallbac
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallback\bin\Debug\net5.0\ref\005_ThreadWithCallback.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.pdb
-C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.AssemblyInfo.cs

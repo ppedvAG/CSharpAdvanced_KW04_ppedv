@@ -63,3 +63,17 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\Übung_
 C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.pdb
 C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.genruntimeconfig.cache

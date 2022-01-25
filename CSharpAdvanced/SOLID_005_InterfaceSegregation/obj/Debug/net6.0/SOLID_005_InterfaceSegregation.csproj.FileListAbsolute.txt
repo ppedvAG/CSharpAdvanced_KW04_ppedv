@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\bin\Debug\net6.0\SOLID_005_InterfaceSegregation.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\bin\Debug\net6.0\SOLID_005_InterfaceSegregation.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\bin\Debug\net6.0\SOLID_005_InterfaceSegregation.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\bin\Debug\net6.0\SOLID_005_InterfaceSegregation.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\bin\Debug\net6.0\ref\SOLID_005_InterfaceSegregation.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\bin\Debug\net6.0\SOLID_005_InterfaceSegregation.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\ref\SOLID_005_InterfaceSegregation.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_005_InterfaceSegregation\obj\Debug\net6.0\SOLID_005_InterfaceSegregation.genruntimeconfig.cache

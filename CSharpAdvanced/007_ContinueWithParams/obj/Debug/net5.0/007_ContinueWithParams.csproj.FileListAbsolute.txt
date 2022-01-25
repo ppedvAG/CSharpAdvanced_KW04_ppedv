@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParam
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\ref\007_ContinueWithParams.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\bin\Debug\net5.0\007_ContinueWithParams.pdb
-C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_ContinueWithParams\obj\Debug\net5.0\007_ContinueWithParams.AssemblyInfo.cs

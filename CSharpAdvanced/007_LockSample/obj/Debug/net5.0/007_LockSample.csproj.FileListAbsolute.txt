@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\bin\De
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\bin\Debug\net5.0\007_LockSample.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\bin\Debug\net5.0\ref\007_LockSample.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\bin\Debug\net5.0\007_LockSample.pdb
-C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\obj\Debug\net5.0\007_LockSample.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\obj\Debug\net5.0\007_LockSample.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\obj\Debug\net5.0\007_LockSample.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\007_LockSample\obj\Debug\net5.0\007_LockSample.AssemblyInfo.cs

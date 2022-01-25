@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\bin\Debug\net5.0\ParallelInvokeSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\bin\Debug\net5.0\ParallelInvokeSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\bin\Debug\net5.0\ParallelInvokeSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\bin\Debug\net5.0\ParallelInvokeSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\bin\Debug\net5.0\ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\bin\Debug\net5.0\ref\ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\bin\Debug\net5.0\ParallelInvokeSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ref\ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\ParallelInvokeSample\obj\Debug\net5.0\ParallelInvokeSample.genruntimeconfig.cache

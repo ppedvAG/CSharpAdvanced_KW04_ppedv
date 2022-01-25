@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\ob
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\ref\005_Task_Exception.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\005_Task_Exception\obj\Debug\net5.0\005_Task_Exception.csproj.AssemblyReference.cache

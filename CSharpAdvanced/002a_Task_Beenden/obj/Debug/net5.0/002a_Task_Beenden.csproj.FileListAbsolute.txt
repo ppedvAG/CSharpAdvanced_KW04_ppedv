@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002a_Task_Beenden\obj
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002a_Task_Beenden\obj\Debug\net5.0\ref\002a_Task_Beenden.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002a_Task_Beenden\obj\Debug\net5.0\002a_Task_Beenden.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002a_Task_Beenden\obj\Debug\net5.0\002a_Task_Beenden.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\002a_Task_Beenden\obj\Debug\net5.0\002a_Task_Beenden.csproj.AssemblyReference.cache

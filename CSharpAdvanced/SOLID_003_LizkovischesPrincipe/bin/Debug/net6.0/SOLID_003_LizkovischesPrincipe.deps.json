@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SOLID_003_LizkovischesPrincipe/1.0.0": {
+        "runtime": {
+          "SOLID_003_LizkovischesPrincipe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_003_LizkovischesPrincipe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

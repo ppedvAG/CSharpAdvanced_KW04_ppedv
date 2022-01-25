@@ -1,4 +1,3 @@
-C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\SOLID_004_DependencyInversion\obj\Debug\net6.0\SOLID_004_DependencyInversion.AssemblyInfo.cs

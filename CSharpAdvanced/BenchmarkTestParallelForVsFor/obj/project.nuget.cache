@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "njkyi+E9Tfn/BO57/rf9vjsmTbSoegZPs9v3YUqpvLKB00zpJUz4Qfz1NeYlaNeNTD6XssrCLKQppRcOc3OUyA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW04_ppedv\\CSharpAdvanced\\BenchmarkTestParallelForVsFor\\BenchmarkTestParallelForVsFor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

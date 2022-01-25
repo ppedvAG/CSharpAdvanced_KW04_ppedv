@@ -12,3 +12,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncS
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\ref\DelegatesActionsFuncSamples.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\DelegatesActionsFuncSamples\obj\Debug\net6.0\DelegatesActionsFuncSamples.csproj.AssemblyReference.cache

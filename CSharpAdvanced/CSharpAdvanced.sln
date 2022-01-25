@@ -50,45 +50,61 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern_with_abstrac
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threading", "Threading", "{6FE23060-3C12-4A73-91C1-A51783CAE2BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_ThreadStarten", "001_ThreadStarten\001_ThreadStarten.csproj", "{8F13F76E-6A97-493A-BF26-D388DC82F345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_ThreadStarten", "001_ThreadStarten\001_ThreadStarten.csproj", "{8F13F76E-6A97-493A-BF26-D388DC82F345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_ThreadMitParameterStarten", "002_ThreadMitParameterStarten\002_ThreadMitParameterStarten.csproj", "{EF66D2D5-EAD4-4612-8AFE-3B4C9B351CAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_ThreadMitParameterStarten", "002_ThreadMitParameterStarten\002_ThreadMitParameterStarten.csproj", "{EF66D2D5-EAD4-4612-8AFE-3B4C9B351CAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ThreadBeenden", "003_ThreadBeenden\003_ThreadBeenden.csproj", "{7B8B5D39-F198-43CF-ABD7-8FFD437304C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_ThreadBeenden", "003_ThreadBeenden\003_ThreadBeenden.csproj", "{7B8B5D39-F198-43CF-ABD7-8FFD437304C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003b_ThreadBeenden", "003b_ThreadBeenden\003b_ThreadBeenden.csproj", "{B855AEB3-D570-401D-BE0B-79767EA78A52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_ThreadWithParamterAndReturnValue", "004_ThreadWithParamterAndReturnValue\004_ThreadWithParamterAndReturnValue.csproj", "{D635F12A-3497-4FE6-A803-08978C3BC63D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_ThreadWithParamterAndReturnValue", "004_ThreadWithParamterAndReturnValue\004_ThreadWithParamterAndReturnValue.csproj", "{D635F12A-3497-4FE6-A803-08978C3BC63D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_ThreadWithCallback", "005_ThreadWithCallback\005_ThreadWithCallback.csproj", "{0A17A6EF-A3FA-414A-A492-30FE6B6A91B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_ThreadWithCallback", "005_ThreadWithCallback\005_ThreadWithCallback.csproj", "{0A17A6EF-A3FA-414A-A492-30FE6B6A91B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_ThreadPooolSample", "006_ThreadPooolSample\006_ThreadPooolSample.csproj", "{51B8D932-C36A-4DD9-9509-523C9F58DA32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_ThreadPooolSample", "006_ThreadPooolSample\006_ThreadPooolSample.csproj", "{51B8D932-C36A-4DD9-9509-523C9F58DA32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_LockSample", "007_LockSample\007_LockSample.csproj", "{EBE1839D-CB55-4307-A21D-2F78C43A43DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_LockSample", "007_LockSample\007_LockSample.csproj", "{EBE1839D-CB55-4307-A21D-2F78C43A43DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_MonitorSample", "008_MonitorSample\008_MonitorSample.csproj", "{5DA0B80E-BAAE-47CE-9403-533E01249C0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_MonitorSample", "008_MonitorSample\008_MonitorSample.csproj", "{5DA0B80E-BAAE-47CE-9403-533E01249C0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_MutexSample", "009_MutexSample\009_MutexSample.csproj", "{F4CB5962-06C9-4E51-9C63-1459A2CC2EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_MutexSample", "009_MutexSample\009_MutexSample.csproj", "{F4CB5962-06C9-4E51-9C63-1459A2CC2EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Mutex_ProgramInstance", "010_Mutex_ProgramInstance\010_Mutex_ProgramInstance.csproj", "{831A4820-6783-4D98-88E4-729D177AF18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Mutex_ProgramInstance", "010_Mutex_ProgramInstance\010_Mutex_ProgramInstance.csproj", "{831A4820-6783-4D98-88E4-729D177AF18D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TPL", "TPL", "{6C854D2E-2777-4395-B269-1B4FABA73964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Task_starten", "001_Task_starten\001_Task_starten.csproj", "{B746DFFA-953D-4378-98A0-EA6D826A6510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Task_starten", "001_Task_starten\001_Task_starten.csproj", "{B746DFFA-953D-4378-98A0-EA6D826A6510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Task_Beenden", "002_Task_Beenden\002_Task_Beenden.csproj", "{E2A5375B-78CE-4300-A27A-7E97645930C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Task_Beenden", "002_Task_Beenden\002_Task_Beenden.csproj", "{E2A5375B-78CE-4300-A27A-7E97645930C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002a_Task_Beenden", "002a_Task_Beenden\002a_Task_Beenden.csproj", "{B6F0368F-6D8D-4DC0-8F7D-FD59ECDCAB7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002a_Task_Beenden", "002a_Task_Beenden\002a_Task_Beenden.csproj", "{B6F0368F-6D8D-4DC0-8F7D-FD59ECDCAB7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_TaskFactorySample", "03_TaskFactorySample\003_TaskFactorySample.csproj", "{F288EB85-3D6A-4F14-BF91-887330C138B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_TaskFactorySample", "03_TaskFactorySample\003_TaskFactorySample.csproj", "{F288EB85-3D6A-4F14-BF91-887330C138B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_TaskMitParameter", "004_TaskMitParameter\004_TaskMitParameter.csproj", "{00AA69E2-AA7F-40B4-8338-50462FA58B21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_TaskMitParameter", "004_TaskMitParameter\004_TaskMitParameter.csproj", "{00AA69E2-AA7F-40B4-8338-50462FA58B21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Task_Exception", "005_Task_Exception\005_Task_Exception.csproj", "{9A6DAE56-378A-404B-A11F-E4ED07B2C982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Task_Exception", "005_Task_Exception\005_Task_Exception.csproj", "{9A6DAE56-378A-404B-A11F-E4ED07B2C982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_ContinueSample", "006_ContinueSample\006_ContinueSample.csproj", "{2C2E73AD-C1CF-4593-A8A9-5DE58D4720C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_ContinueSample", "006_ContinueSample\006_ContinueSample.csproj", "{2C2E73AD-C1CF-4593-A8A9-5DE58D4720C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_ContinueWithParams", "007_ContinueWithParams\007_ContinueWithParams.csproj", "{F4B1B47B-588A-43D5-B674-2109951D42CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_ContinueWithParams", "007_ContinueWithParams\007_ContinueWithParams.csproj", "{F4B1B47B-588A-43D5-B674-2109951D42CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Task_WhenAllSample", "008_Task_WhenAllSample\008_Task_WhenAllSample.csproj", "{0108CCC9-33BA-4675-8553-CB900F238736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_AsyncAwait_Sample", "009_AsyncAwait_Sample\009_AsyncAwait_Sample.csproj", "{033723A4-F96B-4BDE-8444-8AA42B00E756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloAsync", "HalloAsync (1)\HalloAsync\HalloAsync.csproj", "{C3C3AA6C-53E4-4A4A-82E6-A6946EB298E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloAsync", "HalloAsync\HalloAsync\HalloAsync.csproj", "{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelInvokeSample", "ParallelInvokeSample\ParallelInvokeSample.csproj", "{CAB32851-C06C-497B-B027-8884D9FE46B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenchmarkTestParallelForVsFor", "BenchmarkTestParallelForVsFor\BenchmarkTestParallelForVsFor.csproj", "{F23DD0DC-8772-4F68-9DDF-CD594A104D17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{450CB75C-B1B9-435E-9729-4E5CD1D9E069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsSample", "GenericsSample\GenericsSample.csproj", "{66018DAB-D24B-4E98-AD1B-802031EEEEA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -232,6 +248,34 @@ Global
 		{F4B1B47B-588A-43D5-B674-2109951D42CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B1B47B-588A-43D5-B674-2109951D42CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B1B47B-588A-43D5-B674-2109951D42CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0108CCC9-33BA-4675-8553-CB900F238736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0108CCC9-33BA-4675-8553-CB900F238736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0108CCC9-33BA-4675-8553-CB900F238736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0108CCC9-33BA-4675-8553-CB900F238736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033723A4-F96B-4BDE-8444-8AA42B00E756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033723A4-F96B-4BDE-8444-8AA42B00E756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033723A4-F96B-4BDE-8444-8AA42B00E756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033723A4-F96B-4BDE-8444-8AA42B00E756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C3AA6C-53E4-4A4A-82E6-A6946EB298E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C3AA6C-53E4-4A4A-82E6-A6946EB298E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C3AA6C-53E4-4A4A-82E6-A6946EB298E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C3AA6C-53E4-4A4A-82E6-A6946EB298E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB32851-C06C-497B-B027-8884D9FE46B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB32851-C06C-497B-B027-8884D9FE46B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB32851-C06C-497B-B027-8884D9FE46B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB32851-C06C-497B-B027-8884D9FE46B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23DD0DC-8772-4F68-9DDF-CD594A104D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23DD0DC-8772-4F68-9DDF-CD594A104D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23DD0DC-8772-4F68-9DDF-CD594A104D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23DD0DC-8772-4F68-9DDF-CD594A104D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66018DAB-D24B-4E98-AD1B-802031EEEEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66018DAB-D24B-4E98-AD1B-802031EEEEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66018DAB-D24B-4E98-AD1B-802031EEEEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66018DAB-D24B-4E98-AD1B-802031EEEEA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -272,6 +316,13 @@ Global
 		{9A6DAE56-378A-404B-A11F-E4ED07B2C982} = {6C854D2E-2777-4395-B269-1B4FABA73964}
 		{2C2E73AD-C1CF-4593-A8A9-5DE58D4720C7} = {6C854D2E-2777-4395-B269-1B4FABA73964}
 		{F4B1B47B-588A-43D5-B674-2109951D42CD} = {6C854D2E-2777-4395-B269-1B4FABA73964}
+		{0108CCC9-33BA-4675-8553-CB900F238736} = {6C854D2E-2777-4395-B269-1B4FABA73964}
+		{033723A4-F96B-4BDE-8444-8AA42B00E756} = {6C854D2E-2777-4395-B269-1B4FABA73964}
+		{C3C3AA6C-53E4-4A4A-82E6-A6946EB298E4} = {6C854D2E-2777-4395-B269-1B4FABA73964}
+		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF} = {6FE23060-3C12-4A73-91C1-A51783CAE2BE}
+		{CAB32851-C06C-497B-B027-8884D9FE46B3} = {6C854D2E-2777-4395-B269-1B4FABA73964}
+		{F23DD0DC-8772-4F68-9DDF-CD594A104D17} = {ADF1027A-86D5-472F-B15B-BEC0A498F422}
+		{66018DAB-D24B-4E98-AD1B-802031EEEEA8} = {450CB75C-B1B9-435E-9729-4E5CD1D9E069}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64EAE810-6152-45AA-A9AC-7C7DBE38B91F}

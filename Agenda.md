@@ -12,10 +12,10 @@ Montag:
 - [x] Interfaces vs abstract in Verbindung mit dem Builder Design Pattern 
 
 Dienstag:
-- [ ] Threading
-- [ ] TPL
-- [ ] async / await
-- [ ] Generics
+- [x] Threading
+- [x] TPL
+- [x] async / await
+- [0] Generics
 
 Mittwoch:
 - [ ] Reflections 
@@ -24,13 +24,7 @@ Mittwoch:
 - [ ] Linq / Lambda 
 - [ ] Erweiterungsmethoden  
 - [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen 
-- [ ] C# 7.0 -> 10.0
-
-Weitere Themen bei freier Zeit
-- [ ] OOP -> Crashkurs
-- [ ] StructVsClasses 
-
+- [ ] Anonyme Typen + dynamische Typen
 
 - Datenbank Anbindung
 - ADO.NET -> SqlConnection / SqlCommand / SqlDataAdapter / SqlDataReader
@@ -39,16 +33,27 @@ Weitere Themen bei freier Zeit
 - Parameteresierte Abragen 
 
 
+- [ ] C# 7.0 -> 10.0
+
+Weitere Themen bei freier Zeit
+- [ ] OOP -> Crashkurs
+- [ ] StructVsClasses 
+- [ ] Datei-Verarbeitung und Verzeichnisse
+	- [ ] Namespaces
+	- [ ] File System
+	- [ ] Formatter
+	- [ ] Dialoge
+	- [ ] StreamWriter und -Reader
+	- [ ] BinaryWriter und -Reader
 
 
+Offene Fragen ->
 
-Datei-Verarbeitung und Verzeichnisse
-- [ ] Namespaces
-- [ ] File System
-- [ ] Formatter
-- [ ] Dialoge
-- [ ] StreamWriter und -Reader
-- [ ] BinaryWriter und -Reader
+Parallel.Invoke -> 
+ThreadPool mit Taks? -> DeepDive in .NET Core 6.0
+Git in Visual Studio 2022 
+
+
 
 
 

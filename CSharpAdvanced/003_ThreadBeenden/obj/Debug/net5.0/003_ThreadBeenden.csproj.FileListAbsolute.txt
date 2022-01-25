@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\003_ThreadBeenden\obj
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\003_ThreadBeenden\obj\Debug\net5.0\ref\003_ThreadBeenden.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\03_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\03_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\03_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\03_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\03_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.csproj.CoreCompileInputs.cache
