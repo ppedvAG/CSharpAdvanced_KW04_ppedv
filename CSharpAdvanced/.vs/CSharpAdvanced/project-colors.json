@@ -85,7 +85,112 @@
       "ProjectGuid": "319462d1-f615-45ad-9770-36ebae190458",
       "DisplayName": "BuilderPattern_with_abstract_Class",
       "ColorIndex": 15
+    },
+    "3b5455ac-7cd5-4aaf-950a-566311e4be79": {
+      "ProjectGuid": "3b5455ac-7cd5-4aaf-950a-566311e4be79",
+      "DisplayName": "001_ThreadStarten",
+      "ColorIndex": 0
+    },
+    "8f13f76e-6a97-493a-bf26-d388dc82f345": {
+      "ProjectGuid": "8f13f76e-6a97-493a-bf26-d388dc82f345",
+      "DisplayName": "001_ThreadStarten",
+      "ColorIndex": 1
+    },
+    "ef66d2d5-ead4-4612-8afe-3b4c9b351cac": {
+      "ProjectGuid": "ef66d2d5-ead4-4612-8afe-3b4c9b351cac",
+      "DisplayName": "002_ThreadMitParameterStarten",
+      "ColorIndex": 2
+    },
+    "7b8b5d39-f198-43cf-abd7-8ffd437304c2": {
+      "ProjectGuid": "7b8b5d39-f198-43cf-abd7-8ffd437304c2",
+      "DisplayName": "003_ThreadBeenden",
+      "ColorIndex": 3
+    },
+    "46bbd20b-a821-4e2b-9e2c-b24c348faf43": {
+      "ProjectGuid": "46bbd20b-a821-4e2b-9e2c-b24c348faf43",
+      "DisplayName": "003b_ThreadBeenden",
+      "ColorIndex": 4
+    },
+    "b855aeb3-d570-401d-be0b-79767ea78a52": {
+      "ProjectGuid": "b855aeb3-d570-401d-be0b-79767ea78a52",
+      "DisplayName": "003b_ThreadBeenden",
+      "ColorIndex": 5
+    },
+    "d635f12a-3497-4fe6-a803-08978c3bc63d": {
+      "ProjectGuid": "d635f12a-3497-4fe6-a803-08978c3bc63d",
+      "DisplayName": "004_ThreadWithParamterAndReturnValue",
+      "ColorIndex": 6
+    },
+    "0a17a6ef-a3fa-414a-a492-30fe6b6a91b6": {
+      "ProjectGuid": "0a17a6ef-a3fa-414a-a492-30fe6b6a91b6",
+      "DisplayName": "005_ThreadWithCallback",
+      "ColorIndex": 7
+    },
+    "51b8d932-c36a-4dd9-9509-523c9f58da32": {
+      "ProjectGuid": "51b8d932-c36a-4dd9-9509-523c9f58da32",
+      "DisplayName": "006_ThreadPooolSample",
+      "ColorIndex": 8
+    },
+    "ebe1839d-cb55-4307-a21d-2f78c43a43da": {
+      "ProjectGuid": "ebe1839d-cb55-4307-a21d-2f78c43a43da",
+      "DisplayName": "007_LockSample",
+      "ColorIndex": 9
+    },
+    "5da0b80e-baae-47ce-9403-533e01249c0c": {
+      "ProjectGuid": "5da0b80e-baae-47ce-9403-533e01249c0c",
+      "DisplayName": "008_MonitorSample",
+      "ColorIndex": 10
+    },
+    "f4cb5962-06c9-4e51-9c63-1459a2cc2ee9": {
+      "ProjectGuid": "f4cb5962-06c9-4e51-9c63-1459a2cc2ee9",
+      "DisplayName": "009_MutexSample",
+      "ColorIndex": 11
+    },
+    "831a4820-6783-4d98-88e4-729d177af18d": {
+      "ProjectGuid": "831a4820-6783-4d98-88e4-729d177af18d",
+      "DisplayName": "010_Mutex_ProgramInstance",
+      "ColorIndex": 12
+    },
+    "b746dffa-953d-4378-98a0-ea6d826a6510": {
+      "ProjectGuid": "b746dffa-953d-4378-98a0-ea6d826a6510",
+      "DisplayName": "001_Task_starten",
+      "ColorIndex": 13
+    },
+    "e2a5375b-78ce-4300-a27a-7e97645930c8": {
+      "ProjectGuid": "e2a5375b-78ce-4300-a27a-7e97645930c8",
+      "DisplayName": "002_Task_Beenden",
+      "ColorIndex": 14
+    },
+    "b6f0368f-6d8d-4dc0-8f7d-fd59ecdcab7f": {
+      "ProjectGuid": "b6f0368f-6d8d-4dc0-8f7d-fd59ecdcab7f",
+      "DisplayName": "002a_Task_Beenden",
+      "ColorIndex": 15
+    },
+    "f288eb85-3d6a-4f14-bf91-887330c138b5": {
+      "ProjectGuid": "f288eb85-3d6a-4f14-bf91-887330c138b5",
+      "DisplayName": "003_TaskFactorySample",
+      "ColorIndex": 0
+    },
+    "00aa69e2-aa7f-40b4-8338-50462fa58b21": {
+      "ProjectGuid": "00aa69e2-aa7f-40b4-8338-50462fa58b21",
+      "DisplayName": "004_TaskMitParameter",
+      "ColorIndex": 1
+    },
+    "9a6dae56-378a-404b-a11f-e4ed07b2c982": {
+      "ProjectGuid": "9a6dae56-378a-404b-a11f-e4ed07b2c982",
+      "DisplayName": "005_Task_Exception",
+      "ColorIndex": 2
+    },
+    "2c2e73ad-c1cf-4593-a8a9-5de58d4720c7": {
+      "ProjectGuid": "2c2e73ad-c1cf-4593-a8a9-5de58d4720c7",
+      "DisplayName": "006_ContinueSample",
+      "ColorIndex": 3
+    },
+    "f4b1b47b-588a-43d5-b674-2109951d42cd": {
+      "ProjectGuid": "f4b1b47b-588a-43d5-b674-2109951d42cd",
+      "DisplayName": "007_ContinueWithParams",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 5
 }
