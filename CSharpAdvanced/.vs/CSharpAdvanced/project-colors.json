@@ -225,7 +225,12 @@
       "ProjectGuid": "66018dab-d24b-4e98-ad1b-802031eeeea8",
       "DisplayName": "GenericsSample",
       "ColorIndex": 11
+    },
+    "134dabe6-c2a4-4607-991c-ca6c748d4c5e": {
+      "ProjectGuid": "134dabe6-c2a4-4607-991c-ca6c748d4c5e",
+      "DisplayName": "ADONETSamples",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
