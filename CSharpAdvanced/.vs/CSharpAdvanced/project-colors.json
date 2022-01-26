@@ -190,7 +190,42 @@
       "ProjectGuid": "f4b1b47b-588a-43d5-b674-2109951d42cd",
       "DisplayName": "007_ContinueWithParams",
       "ColorIndex": 4
+    },
+    "0108ccc9-33ba-4675-8553-cb900f238736": {
+      "ProjectGuid": "0108ccc9-33ba-4675-8553-cb900f238736",
+      "DisplayName": "008_Task_WhenAllSample",
+      "ColorIndex": 5
+    },
+    "033723a4-f96b-4bde-8444-8aa42b00e756": {
+      "ProjectGuid": "033723a4-f96b-4bde-8444-8aa42b00e756",
+      "DisplayName": "009_AsyncAwait_Sample",
+      "ColorIndex": 6
+    },
+    "c3c3aa6c-53e4-4a4a-82e6-a6946eb298e4": {
+      "ProjectGuid": "c3c3aa6c-53e4-4a4a-82e6-a6946eb298e4",
+      "DisplayName": "HalloAsync",
+      "ColorIndex": 7
+    },
+    "8518674c-843f-4bcf-bad3-3eaeb28e48ef": {
+      "ProjectGuid": "8518674c-843f-4bcf-bad3-3eaeb28e48ef",
+      "DisplayName": "HalloAsync",
+      "ColorIndex": 8
+    },
+    "cab32851-c06c-497b-b027-8884d9fe46b3": {
+      "ProjectGuid": "cab32851-c06c-497b-b027-8884d9fe46b3",
+      "DisplayName": "ParallelInvokeSample",
+      "ColorIndex": 9
+    },
+    "f23dd0dc-8772-4f68-9ddf-cd594a104d17": {
+      "ProjectGuid": "f23dd0dc-8772-4f68-9ddf-cd594a104d17",
+      "DisplayName": "BenchmarkTestParallelForVsFor",
+      "ColorIndex": 10
+    },
+    "66018dab-d24b-4e98-ad1b-802031eeeea8": {
+      "ProjectGuid": "66018dab-d24b-4e98-ad1b-802031eeeea8",
+      "DisplayName": "GenericsSample",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 12
 }

@@ -60,12 +60,26 @@ namespace HalloAsync
 
         private void button4_Click(object sender, EventArgs e)
         {
-            //Parallel.Invoke(Zähle, Zähle, Zähle, Zähle);
+            Parallel.Invoke(Zähle2, Zähle1, Zähle2);
             //Parallel.For(0, 10000, i => Debug.WriteLine($"{Thread.CurrentThread.ManagedThreadId}: {i}"));
 
         }
 
         private void Zähle()
+        {
+            for (int i = 0; i < 100; i++)
+            {
+                Debug.WriteLine($"{Thread.CurrentThread.ManagedThreadId}: {i}");
+            }
+        }
+        private void Zähle1()
+        {
+            for (int i = 0; i < 100; i++)
+            {
+                Debug.WriteLine($"{Thread.CurrentThread.ManagedThreadId}: {i}");
+            }
+        }
+        private void Zähle2()
         {
             for (int i = 0; i < 100; i++)
             {
