@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "13waHubAmSVTilWm0mPB2gwBZwXhbVWt06ZlsLq0q1zvDvY8+iH7M69vEoShUXb2vkOh1YZ1+VwEFy9Pny4dPg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW04_ppedv\\CSharpAdvanced\\LinqLambdaSample\\LinqLambdaSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

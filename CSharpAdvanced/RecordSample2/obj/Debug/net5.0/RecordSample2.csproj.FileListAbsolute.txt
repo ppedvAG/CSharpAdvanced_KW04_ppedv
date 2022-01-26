@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\bin\Debug\net5.0\RecordSample2.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\bin\Debug\net5.0\RecordSample2.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\bin\Debug\net5.0\RecordSample2.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\bin\Debug\net5.0\RecordSample2.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\bin\Debug\net5.0\RecordSample2.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\bin\Debug\net5.0\ref\RecordSample2.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\bin\Debug\net5.0\RecordSample2.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\ref\RecordSample2.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\RecordSample2\obj\Debug\net5.0\RecordSample2.genruntimeconfig.cache

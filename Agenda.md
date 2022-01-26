@@ -18,19 +18,23 @@ Dienstag:
 - [0] Generics
 
 Mittwoch:
-- [ ] Reflections 
- - [ ] Plugin Pattern
-- [ ] Serialisierung
-- [ ] Linq / Lambda 
-- [ ] Erweiterungsmethoden  
+- [x] Reflections 
+ - [x] Plugin Pattern
+- [x] Serialisierung
+- [x] Linq / Lambda 
+- [x] Erweiterungsmethoden  
 - [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen
+- [x] Anonyme Typen + dynamische Typen
 
-- Datenbank Anbindung
+- [X] Datenbank Anbindung
 - ADO.NET -> SqlConnection / SqlCommand / SqlDataAdapter / SqlDataReader
 	Altes ADO.NET -> System.Data.SqlClient
 	Neues ADO.NET -> Microsoft.Data.SqlClient
-- Parameteresierte Abragen 
+- [x] Parameteresierte Abfrage 
+- [x] Transactionen
+- [x] SqlDataReader
+- [x] SqlDataAdapter
+
 
 
 - [ ] C# 7.0 -> 10.0
@@ -49,9 +53,9 @@ Weitere Themen bei freier Zeit
 
 Offene Fragen ->
 
-Parallel.Invoke -> 
-ThreadPool mit Taks? -> DeepDive in .NET Core 6.0
-Git in Visual Studio 2022 
+- [x] Parallel.Invoke -> 
+- ThreadPool mit Taks? -> DeepDive in .NET Core 6.0
+- Git in Visual Studio 2022 
 
 
 

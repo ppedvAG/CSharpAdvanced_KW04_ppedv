@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnc1HDETs+VKNq0eaWW5IYK9s+dt2FCaI4AVZUsH6pVH1VaQjr9idOF/ziIwLVNpFLo+kt8pjZ3Q5MXdJUhzLA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW04_ppedv\\CSharpAdvanced\\TaschenrechnerApp\\TaschenrechnerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\bin\Debug\net5.0\Taschenrechner.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\bin\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\bin\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\bin\Debug\net5.0\Taschenrechner.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\obj\Debug\net5.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\obj\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\obj\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\Taschenrechner\obj\Debug\net5.0\Taschenrechner.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\TaschenrechnerApp\bin\Debug\net5.0\Taschenrechner.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\TaschenrechnerApp\bin\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\TaschenrechnerApp\bin\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\TaschenrechnerApp\bin\Debug\net5.0\Taschenrechner.pdb

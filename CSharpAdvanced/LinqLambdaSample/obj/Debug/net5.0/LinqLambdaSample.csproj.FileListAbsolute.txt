@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\bin\Debug\net5.0\LinqLambdaSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\bin\Debug\net5.0\LinqLambdaSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\bin\Debug\net5.0\LinqLambdaSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\bin\Debug\net5.0\LinqLambdaSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\bin\Debug\net5.0\LinqLambdaSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\bin\Debug\net5.0\ref\LinqLambdaSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\bin\Debug\net5.0\LinqLambdaSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\LinqLambdaSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\LinqLambdaSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\LinqLambdaSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\LinqLambdaSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\LinqLambdaSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\ref\LinqLambdaSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\LinqLambdaSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\LinqLambdaSample\obj\Debug\net5.0\LinqLambdaSample.genruntimeconfig.cache

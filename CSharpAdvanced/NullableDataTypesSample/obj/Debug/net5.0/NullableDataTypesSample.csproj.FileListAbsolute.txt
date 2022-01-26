@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\bin\Debug\net5.0\NullableDataTypesSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\bin\Debug\net5.0\NullableDataTypesSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\bin\Debug\net5.0\NullableDataTypesSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\bin\Debug\net5.0\NullableDataTypesSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\bin\Debug\net5.0\NullableDataTypesSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\bin\Debug\net5.0\ref\NullableDataTypesSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\bin\Debug\net5.0\NullableDataTypesSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\NullableDataTypesSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\NullableDataTypesSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\NullableDataTypesSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\NullableDataTypesSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\NullableDataTypesSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\ref\NullableDataTypesSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\NullableDataTypesSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\CSharpAdvanced\NullableDataTypesSample\obj\Debug\net5.0\NullableDataTypesSample.genruntimeconfig.cache
